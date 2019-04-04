@@ -19,4 +19,8 @@
 ### (3)算法
 统计学习的问题最终还是归结为风险函数的最优化问题，那么这里的算法就是求解最优化问题的算法，这里采用的的是`随机梯度下降`。<br>
 *   算法具体步骤如下：(截图自《统计学习方法》)
-<img src="https://github.com/ChanLiang/ML/blob/master/02_perceptron/image/%E7%AE%97%E6%B3%95%E6%AD%A5%E9%AA%A4.png">
+<img src="https://github.com/ChanLiang/ML/blob/master/02_perceptron/image/%E7%AE%97%E6%B3%95%E6%AD%A5%E9%AA%A4.png"><br><br>
+
+## 2. 代码实现部分
+代码so easy!注意一个问题就行：<br>
+*   维度问题：w和x是同纬度的，在numpy中初始化w时，不要用rank=1的array（shape=(1.)），最好用列向量（shape=(n,1)），仅用一个reshape操作（O(1)）就可以完成，这样可以避免很多不必要的问题。<br>
