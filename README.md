@@ -9,3 +9,11 @@
 #### 2. 实战应用<br>
 ##### (a).手写数字识别(待更新ing)<br>
 
+
+## 二. 感知机<br>
+#### 1. 模型实现<br>
+* 理论： *<a href="https://github.com/ChanLiang/ML/tree/master/02_perceptron">perceptron简述</a>*<br>
+* 代码： *<a href="https://github.com/ChanLiang/ML/blob/master/02_perceptron/perceptron.py">perceptron.py</a>*<br>
+
+#### 2. 实战应用<br>
+##### (a).iris数据集(待更新ing)<br>
