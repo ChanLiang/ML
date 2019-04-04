@@ -16,4 +16,4 @@
 * 代码： *<a href="https://github.com/ChanLiang/ML/blob/master/02_perceptron/perceptron.py">perceptron.py</a>*<br>
 
 #### 2. 实战应用<br>
-##### (a).iris数据集(待更新ing)<br>
+* iris数据集： *<a href="https://github.com/ChanLiang/ML/blob/master/02_perceptron/iris.ipynb">iris.ipynb</a>*   (讲解+代码)<br>
