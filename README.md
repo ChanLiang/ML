@@ -18,5 +18,6 @@
 #### 2. 实战应用<br>
 * iris数据集： *<a href="https://github.com/ChanLiang/ML/blob/master/02_perceptron/iris.ipynb">iris.ipynb</a>*   (讲解+代码)<br>
 
-## 三. 朴素贝叶斯<br>
-#### 1. 模型实现(ing)<br>
+## 三. 逻辑斯蒂回归<br>
+#### 模型实现<br>
+*   多分类 (softmax):    *<a href="https://github.com/ChanLiang/ML/blob/master/03_logistic_regression/Logistic_Regression_Softmax.ipynb">Logistic_Regression_Softmax.ipynb</a>*（iris数据集）
