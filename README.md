@@ -24,4 +24,8 @@
 *  代码 (softmax):    *<a href="https://github.com/ChanLiang/ML/blob/master/03_logistic_regression/Logistic_Regression_Softmax.ipynb">Logistic_Regression_Softmax.ipynb</a>*（iris数据集）<br><br>
 
 ## 四. 决策树<br>
-#### 1. 模型实现（更新ing）<br>
+#### 模型实现<br>
+*   ID3:  *<a href="https://github.com/ChanLiang/ML/blob/master/04_decision_tree/decision_tree.ipynb">decision_tree.ipynb</a>*<br><br>
+
+## 五. K均值<br>
+#### 模型实现(ing)<br>
