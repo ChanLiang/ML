@@ -28,4 +28,6 @@
 *   ID3:  *<a href="https://github.com/ChanLiang/ML/blob/master/04_decision_tree/decision_tree.ipynb">decision_tree.ipynb</a>*<br><br>
 
 ## 五. K均值<br>
-#### 模型实现(ing)<br>
+#### 模型实现<br>
+*   基本kMeans:   *<a href="https://github.com/ChanLiang/ML/blob/master/05_kMeans/kMeans.ipynb">kMeans.ipynb</a>*<br><br>
+*   二分kMeans(实现ing):   
