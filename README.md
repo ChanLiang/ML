@@ -1,5 +1,5 @@
-# ML
-手动实现machine learning的主流算法和模型，并应用该模型或算法来解决一些经典的实战问题
+# Machine Learning
+手动实现机器学习的主流算法和模型，并应用该模型或算法来解决一些经典的实战问题
 
 ## 一. k近邻<br>
 #### 1. 模型实现<br>
@@ -29,5 +29,5 @@
 
 ## 五. K均值<br>
 #### 模型实现<br>
-*   基本kMeans:   *<a href="https://github.com/ChanLiang/ML/blob/master/05_kMeans/kMeans.ipynb">kMeans.ipynb</a>*<br><br>
+*   基本kMeans:   *<a href="https://github.com/ChanLiang/ML/blob/master/05_kMeans/kMeans.ipynb">kMeans.ipynb</a>*<br>
 *   二分kMeans(实现ing):   
