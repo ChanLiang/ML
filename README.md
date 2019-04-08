@@ -31,3 +31,7 @@
 #### 模型实现<br>
 *   基本kMeans:   *<a href="https://github.com/ChanLiang/ML/blob/master/05_kMeans/kMeans.ipynb">kMeans.ipynb</a>*<br>
 *   二分kMeans(实现ing):   
+<br><br>
+
+## 六. 朴素贝叶斯<br>
+#### 模型实现<br>
